@@ -35,7 +35,7 @@ GEM
       mime-types
     qiniu (6.4.1)
       json (~> 1.7)
-      mime-types (~> 2.4.3)
+      mime-types (~> 3.4.1)
       rest-client (~> 1.6)
       ruby-hmac (~> 0.4)
     rest-client (1.7.2)
