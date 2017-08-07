@@ -3,7 +3,7 @@ PATH
   specs:
     paperclip-qiniu (0.2.0)
       paperclip
-      qiniu (~> 6.9.0)
+      qiniu (~> 6.8.1)
 
 GEM
   remote: https://rubygems.org/
@@ -33,7 +33,7 @@ GEM
       activesupport (>= 3.0.0)
       cocaine (~> 0.5.3)
       mime-types
-    qiniu (6.9.0)
+    qiniu (6.8.1)
       json (~> 1.7)
       mime-types (~> 3.1)
       rest-client (~> 1.6)
