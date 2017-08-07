@@ -35,11 +35,11 @@ GEM
       mime-types
     qiniu (6.4.1)
       json (~> 1.7)
-      mime-types (~> 3.4.1)
+      mime-types (~> 3.1)
       rest-client (~> 1.6)
       ruby-hmac (~> 0.4)
     rest-client (1.7.2)
-      mime-types (>= 1.16, < 3.0)
+      mime-types (~> 3.1)
       netrc (~> 0.7)
     rspec (3.2.0)
       rspec-core (~> 3.2.0)
